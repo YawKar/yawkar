@@ -1,3 +1,3 @@
 <p align="center">
-  𝘨𝘭𝘢𝘴𝘴𝘺 𝘴𝘬𝘺 𝘢𝘣𝘰𝘷𝘦, 𝘴𝘰𝘮𝘦𝘵𝘪𝘮𝘦𝘴 𝘐 𝘸𝘰𝘯𝘥𝘦𝘳 𝘸𝘩𝘢𝘵'𝘴 𝘣𝘦𝘺𝘰𝘯𝘥
+  <code>the good, the true, and the beautiful</code>
 </p>
