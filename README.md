@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-  <img src="https://raw.githubusercontent.com/yawkar/yawkar/main/media/merry%20christmas!%20by%20pixelMewr%20on%20DeviantArt.gif" />
+  <img src="https://raw.githubusercontent.com/yawkar/yawkar/main/media/2ec62fd8bdd9ac88be7f6f60794d40b0.jpg" />
 </p>
 <p align="center">
   I care + I asked + smile about it + stay<br>
