@@ -2,10 +2,6 @@
   <img src="https://raw.githubusercontent.com/yawkar/yawkar/main/media/2ec62fd8bdd9ac88be7f6f60794d40b0.jpg" />
 </p>
 <p align="center">
-  I care + I asked + smile about it + stay<br>
-  glad + W + not basic + skill + touched<br>
-  grass + rational + you rose up + no hate<br>
-  + triggeredn't + you got a wonderful life<br>
-  + ok:) + not cringe + nice job + based +<br>
-  grammar good + you're good + have a good day
+  Yesterday is history. Tomorrow is a mystery. But today is a gift; that's why it is called the present.<br>
+  -- Master Oogway --
 </p>
