@@ -1,6 +1,7 @@
-> [!WARNING]  
-> Code written by a human who's still trying to figure out what they're doing. Proceed with caution (and a healthy dose of skepticism). May contain bugs, typos, and occasional bouts of sanity loss. Use at your own risk. Prolonged exposure may lead to frustration, hair loss, or spontaneous combustion (just kidding... or am I?).
->
->  **Learn more about GitHub's commitment to fostering an inclusive and supportive online community [here](https://learn-with.github.io/our-commitment-to-a-supportive-community).**
-
-[![Was it just a dream?](https://raw.githubusercontent.com/yawkar/yawkar/main/media/5708073163_6e9d1d5ae6_k.jpg)](https://youtu.be/Dy6T9-dmkh4?t=457)
+> [!CAUTION]  
+> // Segmentation Faults: The Silent Killers of Code
+> // They creep in like thieves in the night, corrupting memory and leaving us in despair.
+> // Yet, amidst the chaos, they remind us of the fragility of our creations and the importance of vigilance.
+> // To those who battle these demons daily, know that your struggle is noted and celebrated.
+> // May your debugging tools be ever sharp, and may your patience never wane.
+> // Remember, every fault fixed is a step closer to a bug-free world... or at least our own small corner of it.
