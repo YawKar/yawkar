@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> **In Algebraic Data Types We Trust.**
+
 > [!CAUTION]  
 > **Segmentation Faults: The Silent Killers of Code.**
 > 
