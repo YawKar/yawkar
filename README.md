@@ -18,5 +18,10 @@
 > 🤦‍♂️ Imagine if every time you forgot to set a value, your computer decided to give you a big fat null instead of a sensible default.
 > It's like having a magic 8-ball that only answers with "_It's complicated_" unless you explicitly ask for "_Yes_" or "_No_". 🎱🙈
 
+> [!NOTE]
+> **Type Systems: Choose Sanity Over Madness, Unless You're Ready for a Debugging Nightmare!**
+> 
+> <img src="https://raw.githubusercontent.com/yawkar/yawkar/can_i_show_picture_in_warning/media/8zbrco.jpg" width="350">
+
 > [!IMPORTANT]
 > **In Algebraic Data Types We Trust.**
