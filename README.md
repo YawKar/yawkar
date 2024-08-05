@@ -21,7 +21,7 @@
 > [!NOTE]
 > **Type Systems: Choose Sanity Over Madness, Unless You're Ready for a Debugging Nightmare!**
 > 
-> <img src="https://raw.githubusercontent.com/yawkar/yawkar/can_i_show_picture_in_warning/media/8zbrco.jpg" width="350">
+> <img src="https://raw.githubusercontent.com/yawkar/yawkar/main/media/8zbrco.jpg" width="350">
 
 > [!IMPORTANT]
 > **In Algebraic Data Types We Trust.**
