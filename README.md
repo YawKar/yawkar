@@ -11,12 +11,12 @@
 > **You are not smarter than the compiler and you shouldn't be.**
 
 > [!TIP]
-> **None, null, nil and the whole "trust yourself" story...**
+> **None, null, nil and the whole "_trust yourself_" story...**
 > 
 > Why don't programmers ever trust themselves to choose default values?
 > Because they're afraid they might pick null!
 > 🤦‍♂️ Imagine if every time you forgot to set a value, your computer decided to give you a big fat null instead of a sensible default.
-> It's like having a magic 8-ball that only answers with "It's complicated" unless you explicitly ask for "Yes" or "No". 🎱🙈
+> It's like having a magic 8-ball that only answers with "_It's complicated_" unless you explicitly ask for "_Yes_" or "_No_". 🎱🙈
 
 > [!IMPORTANT]
 > **In Algebraic Data Types We Trust.**
