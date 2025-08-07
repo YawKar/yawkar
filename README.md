@@ -1,2 +1,2 @@
 > [!IMPORTANT]
-> НЕБО УРОНИТ НОЧЬ НА ЛАДОНИ, НАС НЕ ДОГОНЯТ, НАС НЕ ДОГОНЯТ
+> So, Father, forgive me, for You know that I am always sinnin'
